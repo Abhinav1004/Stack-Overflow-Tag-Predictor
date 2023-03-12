@@ -29,7 +29,7 @@ The questions are randomized and contains a mix of verbose text sites as well as
 <br />
 
 
-## Data Field Explainatio
+## Data Field Explaination
 
 Dataset contains 6,034,195 rows. The columns in the table are:<br />
 <pre>
